@@ -1,4 +1,4 @@
-git clone https://github.com/LeonzzXD/konto
+git clone https://github.com/LeonzzXD/kontol
 
 cd kontol
 
